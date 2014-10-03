@@ -73,6 +73,7 @@ function (Settings) {
       'bettermap',
       'query',
       'terms',
+      'terms0',
       'stats',
       'sparklines'
     ]
